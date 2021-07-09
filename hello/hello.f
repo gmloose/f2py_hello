@@ -1,4 +1,4 @@
        subroutine hello
-       print*, "Hello world!"
+       print*, "Hello world from Fortran!"
        end 
 
